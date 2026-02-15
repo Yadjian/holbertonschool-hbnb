@@ -458,3 +458,8 @@ Key aspects of this flow:
 - Clear HTTP status codes indicate success (200) or specific failure reasons (400, 401)
 
 This flow supports the core functionality of browsing available properties while maintaining system security through proper authentication.
+
+## Author
+
+**Lucas Boyadjian**
+GitHub: [@Lucas-Boyadjian](https://github.com/Yadjian)

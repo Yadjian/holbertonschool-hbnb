@@ -212,6 +212,6 @@ The application serves as the primary user interface for the HBNB platform, conn
 ## Author
 
 **Lucas Boyadjian**
-GitHub: [@Lucas-Boyadjian](https://github.com/Lucas-Boyadjian)
+GitHub: [@Lucas-Boyadjian](https://github.com/Yadjian)
 
 
